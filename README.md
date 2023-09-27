@@ -13,7 +13,7 @@
 ### <h2> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"></img> About Me </h2>
 - :school: I am a final year student of MCs study programme: Regional Studies and International Business in Metropolitan University Prague (MUP)**
 - :books: Besides being a **App developer**
-- :earth_europe: I currently reside and work in **Santos, Brazil**
+- :earth: I currently reside and work in **Santos, Brazil**
 - :monocle_face: I enjoy **programming** and **reading**, especially books about real-life business lessons from successful entrepreneurs
 - :sunglasses: My quote is ***"Patience is a key element of success"*** 
 - :ok_hand: Fun fact: **The computer was born to solve problems that did not exist before**
