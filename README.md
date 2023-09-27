@@ -2,7 +2,7 @@
   <a href="https://github.com/tranthaituananh"><img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=50&duration=2311&pause=500&color=0036FFFF&center=true&vCenter=true&width=700&height=100&lines=%F0%9F%91%8B+Hey+there+!+;My+name's+Aleksandr+Ivanov+;And+nice+to+meet+you+!" alt="tranthaituananh | hello_world!" /></a>
 </p> 
 <p align="center">
-  <a href="http://tuananh-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Website-23112010?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://vercel.com/aleksandr-ivanovs-projects"><img src="https://img.shields.io/badge/Website-23112010?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/aleksandr-ivanov-a518ba183/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:almomsk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://t.me/almo_sonador"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
