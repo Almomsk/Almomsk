@@ -12,13 +12,12 @@
 
 ### <h2> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"></img> About Me </h2>
 - 👨‍🎓Graduated from the Plekhanov Russian University of Economics with a degree in Commodity science in 2015 - **Bachelor's degree**
-- :school: final year student of MCs study programme: Regional Studies and International Business in **Metropolitan University Prague (MUP)**
+- :school: final year student of **MCs** study programme: Regional Studies and International Business in Metropolitan University Prague (MUP)
 - 🖥️ I am studying for a 2-year course as a **Programmer of iOS and Android mobile devices** at the GeekBrains online University
-- :books: Besides being a **App developer**
-- 🌎 I currently reside and work in **Santos, Brazil**
-- :monocle_face: I enjoy **programming** and **reading**, especially books about real-life business lessons from successful entrepreneurs
+- :books: Learning how to be **App developer**
+- 🌎 I currently reside and work remotely **Santos, Brazil**
+- :monocle_face: I enjoy **programming** and **reading**, especially books about real-life business lessons from successful entrepreneurs. I also like classical Russian literature.
 - :sunglasses: My quote is ***"Patience is a key element of success"*** 
-- :ok_hand: Fun fact: **The computer was born to solve problems that did not exist before**
 - :mailbox_with_mail: You can email me via <a href="mailto:almomsk@gmail.com">almomsk@gmail.com</a>, or inbox
 me at <a href="https://t.me/almo_sonador"> my Telegram</a>. I'll be there as soon as possible.
 
