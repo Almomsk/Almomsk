@@ -15,7 +15,7 @@
 - :school: final year student of **MCs** study programme: Regional Studies and International Business in Metropolitan University Prague (MUP)
 - 🖥️ I am studying for a 2-year course as a **Programming and development apps for iOS and Android devices** at the GeekBrains online University
 - :books: Learning how to be **App developer**
-- 🌎 I currently reside and work remotely **Santos, Brazil**
+- 🌎 I currently live and work remotly in **Santos, Brazil**
 - :monocle_face: I enjoy **programming** and **reading**, especially books about real-life business lessons from successful entrepreneurs. I also like classical Russian literature.
 - :sunglasses: My quote is ***"Patience is a key element of success"*** 
 - :mailbox_with_mail: You can email me via <a href="mailto:almomsk@gmail.com">almomsk@gmail.com</a>, or inbox
