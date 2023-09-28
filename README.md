@@ -12,8 +12,8 @@
 
 ### <h2> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"></img> About Me </h2>
 - 👨‍🎓Graduated from the Plekhanov Russian University of Economics with a degree in Commodity science in 2015 - **Bachelor's degree**
-- :school: final year student of **MCs** study programme: Regional Studies and International Business in Metropolitan University Prague (MUP)
-- 🖥️ I am studying for a 2-year course as a **Programming and development apps for iOS and Android devices** at the GeekBrains online University
+- :school: Student of **MCs** study programme: Regional Studies and International Business in Metropolitan University Prague (MUP)
+- 🖥️ Student of a 2-year course **Programming and development apps for iOS and Android devices** in GeekBrains online University
 - :books: Learning how to be **App developer**
 - 🌎 I currently live and work remotly in **Santos, Brazil**
 - :monocle_face: I enjoy **programming** and **reading**, especially books about real-life business lessons from successful entrepreneurs. I also like classical Russian literature.
