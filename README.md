@@ -32,8 +32,7 @@ me at <a href="https://t.me/almo_sonador"> my Telegram</a>. I'll be there as soo
 * *Additional skills:* 
     * *Time management*
     * *Product management*
-    * *Restful API management*
-
+  
 # 💻 My GitHub Analytics
 <div align="center">
   <a href="https://github.com/Almomsk">
