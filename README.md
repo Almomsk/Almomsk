@@ -43,6 +43,6 @@ me at <a href="https://t.me/almo_sonador"> my Telegram</a>. I'll be there as soo
 
 ---
 <div align="center">
-  :heart: Thanks for watching my profile! Have a nice day! :heart: <br/>
+  🙋‍♂️ Thanks for watching my profile! Have a nice day! ✋ <br/>
   &copy; 2023 Aleksandr Ivanov
 </div>
