@@ -8,6 +8,7 @@
   <a href="https://t.me/almo_sonador"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://leetcode.com/almomsk/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
   <a href="https://www.instagram.com/almomsk"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+  <a href="https://gitlab.com/almomsk"><img src=https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" /></a> 
 </p>  
 
 # 📖 Summary
