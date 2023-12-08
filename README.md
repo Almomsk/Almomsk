@@ -27,9 +27,9 @@ me at <a href="https://t.me/almo_sonador"> my Telegram</a>. I'll be there as soo
 *  Programming languages: 
 ![Languages](https://skillicons.dev/icons?i=java,cs,swift,py)
 * Tools: 
-![Tools](https://skillicons.dev/icons?i=git,github,mysql,vscode)
+![Tools](https://skillicons.dev/icons?i=git,github,mysql,vscode,androidstudio)
 * Frameworks: 
-![Frameworks](https://skillicons.dev/icons?i=react)
+![Frameworks](https://skillicons.dev/icons?i=react,gradle)
 * *Additional skills:* 
     * *Time management*
     * *Product management*
