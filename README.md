@@ -25,7 +25,7 @@ me at <a href="https://t.me/almo_sonador"> my Telegram</a>. I'll be there as soo
 # 📜 Skills
 
 *  Programming languages: 
-![Languages](https://skillicons.dev/icons?i=java,cs,swift,py)
+![Languages](https://skillicons.dev/icons?i=java,cs,swift,py,sql)
 * Tools: 
 ![Tools](https://skillicons.dev/icons?i=git,github,mysql,vscode,androidstudio)
 * Frameworks: 
