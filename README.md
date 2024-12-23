@@ -14,7 +14,6 @@
 # 📖 Summary
 - 🧑‍💻Currently working in Magnit Tech company as **junior QA engineer**
 - 👨‍🎓Graduated from the Plekhanov Russian University of Economics with a degree in Commodity science in 2015 - **Bachelor's degree**
-- :school: Student of **MCs** study programme: Regional Studies and International Business in Metropolitan University Prague (MUP)
 - 🖥️ Graduated **Programming and development apps for iOS and Android devices** in GeekBrains online University
 - :books: Learning how to be professional **QA engineer**
 - 🌎 I currently live and working in **Russia**
@@ -28,7 +27,7 @@ me at <a href="https://t.me/almo_sonador"> my Telegram</a>. I'll be there as soo
 *  Programming languages: 
 ![Languages](https://skillicons.dev/icons?i=java,py,sql)
 * Tools: 
-![Tools](https://skillicons.dev/icons?i=git,github,mysql,vscode,androidstudio,gitlab,jira,confluence)
+![Tools](https://skillicons.dev/icons?i=git,github,mysql,vscode,androidstudio,gitlab)
 * Frameworks: 
 ![Frameworks](https://skillicons.dev/icons?i=react,gradle)
 * *Additional skills:* 
