@@ -12,12 +12,13 @@
 </p>  
 
 # 📖 Summary
+- 🧑‍💻Currently working in Magnit Tech company as **junior QA engineer**
 - 👨‍🎓Graduated from the Plekhanov Russian University of Economics with a degree in Commodity science in 2015 - **Bachelor's degree**
 - :school: Student of **MCs** study programme: Regional Studies and International Business in Metropolitan University Prague (MUP)
 - 🖥️ Graduated **Programming and development apps for iOS and Android devices** in GeekBrains online University
-- :books: Learning how to be **App developer**
-- 🌎 I currently live and looking for a work in **Russia**
-- :monocle_face: I enjoy **programming** and **reading**, especially books about real-life business lessons from successful entrepreneurs. I also like classical Russian literature.
+- :books: Learning how to be professional **QA engineer**
+- 🌎 I currently live and working in **Russia**
+- :monocle_face: I enjoy **Testing**, **programming** and **reading**, especially books about real-life business lessons from successful entrepreneurs. I also like classical Russian literature.
 - :mailbox_with_mail: You can email me via <a href="mailto:almomsk@gmail.com">almomsk@gmail.com</a>, or inbox
 me at <a href="https://t.me/almo_sonador"> my Telegram</a>. I'll be there as soon as possible.
 
